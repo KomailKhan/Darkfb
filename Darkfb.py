@@ -47,11 +47,11 @@ def jalan(z):
 
 
 ##### LOGO #####
-logo = """ ------------------------------------•◈•
-(  __)\\ ____--------------_-------------------•◈•
-|__(~) •||•--------KOMAIL - KHAN -OFFICIAL------•◈•
-|__\~~)  •||•-----------KHAN - BRAND---------------•◈•
-|__(-----\  •◈•------PAPPU-BACHA-KOMAIL-------•◈•
+logo = """ ------------------------------------♥️♥️
+(  __)\\ ____--------------_-------------------♥️♥️
+|__(~) ♥️♥️--------KOMAIL - KHAN -OFFICIAL------♥️♥️
+|__\~~)  ♥️♥️-----------KHAN - BRAND---------------♥️♥️
+|__(-----\  ♥️♥️------PAPPU-BACHA-KOMAIL-------♥️♥️
 |__~~~\      •◈•-----█-------⑦-------█------•◈•
 |__~~~\      •◈•-----█-------⑧-------█------•◈•
 |__~~~\      •◈•-----█-------⑥-------█------•◈•
@@ -71,8 +71,8 @@ logo = """ ------------------------------------•◈•
                              ═╩╝┴ ┴┴└─┴ ┴└  └─┘
  
    Warning: Don't use your personal account.                                             
-     Warning: Use a Fresh Account to log in safely.
-     Warning: Wait 20 minutes to get clone Account.
+   Warning: Use a Fresh Account to log in safely.
+   Warning: Wait 20 minutes to get clone Account.
 \033[1;91m=======================================
 \033[1;96mAuthor  \033[1;93m: \033[1;92mKomail Khan
 \033[1;96mInstagram \033[1;93m: \033[1;itx_muskan_yr
